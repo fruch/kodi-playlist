@@ -36,6 +36,18 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/475.ts|user-agent=FreeIPTV
 #EXTINF:-1,FRANCE 5
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/476.ts|user-agent=FreeIPTV(1) LibVLC/3.0.0-git
 
+#EXTINF:-1,Cartoon Network
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/420.ts|user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+
+#EXTINF:-1,CANAL Junior
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/421.ts|user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+
+#EXTINF:-1,NICKELODEON JUNIOR
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/425.ts|user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+
+#EXTINF:-1,NICKELODEON
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/426.ts|user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+
 #EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="galglz" tvg-name="galglz" tvg-logo="galglz.png", גלגל"צ
 http://glzwizzlv.bynetcdn.com/glglz_mp3
 
