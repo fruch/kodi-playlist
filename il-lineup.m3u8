@@ -4,7 +4,7 @@
 http://82.80.192.30/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8?ttl=1499713015&cdn_token=4d76736de3938029122bf1e549216739
 
 #EXTINF:-1 tvg-id="id10" tvg-name="Channel_10" tvg-logo="channel10.png", ערוץ 10
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/chunklist_b1000000.m3u8
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/manifest.mpd
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 2 (רשת)
 http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
