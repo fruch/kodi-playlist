@@ -1,19 +1,22 @@
-#EXTM3U
+﻿#EXTM3U
 
-#EXTINF:-1 group-title="Israel" radio="false" tvg-id="id1" tvg-name="Channel_1" tvg-logo="channel1.png", ערוץ 1
-http://82.80.192.30/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8?ttl=1499713015&cdn_token=4d76736de3938029122bf1e549216739
+#EXTINF:-1 group-title="Israel" radio="false" tvg-id="id1" tvg-name="Channel_1" tvg-logo="channel1.png", כאן 11
+https://kanlive.media.kan.org.il/kan11/smil:kan11_mp4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Israel" radio="false" tvg-id="id23" tvg-name="Channel_23" tvg-logo="channel1.png", כאן חינוכית 23
+https://kanlive.media.kan.org.il/kan23/smil:kan23_mp4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 12 (קשת)
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st%3D1513455970%7Eexp%3D1513456870%7Eacl%3D%2F*%7Ehmac%3De5f9c9e49e2c88150a72f39d26b8c93f9ec3cb51e9e7b79c6a06497800e1187b
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 13 (רשת)
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8|Referer=https://reshet.tv/live/ 
 
 #EXTINF:-1 tvg-id="id10" tvg-name="Channel_10" tvg-logo="channel10.png", ערוץ 14 (עשר)
-http://switch7-isr-net.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b500000.m3u8
+http://nana10-hdl-il-sw.ctedgecdn.net/10tv_Desktop/index.m3u8?dvr
 
 #EXTINF:-1 tvg-id="id20" tvg-name="Channel_20" tvg-logo="channel20.png", ערוץ 20
-https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+https://dvr.ch20-cdnwiz.com/hls/dvr.m3u8
 
 #EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="channel99.png", ערוץ הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
