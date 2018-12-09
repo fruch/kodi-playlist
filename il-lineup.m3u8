@@ -27,8 +27,27 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:-1 tvg-id="fr24" tvg-name="Channel_99" tvg-logo="channel99.png", France 24
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8a
 
-#EXTINF:-1 tvg-id="i24" tvg-name="Channel_99" tvg-logo="channel99.png", i24 News
-http://sv.ottpremiumtn.xyz:8000/EZZEDINE-BRIK/98368277/2018
+#EXTINF:-1 tvg-id="i24" tvg-name="Channel_99" tvg-logo="channel99.png", TV5MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+#EXTINF:-1,FR: C STARS HD
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-3.m3u8
+#EXTINF:-1,FR: C STARS
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-1.m3u8
+#EXTINF:-1,FR: C STARS (1+)
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-2.m3u8
+#EXTINF:-1,FRANCE C-STARS
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-0.m3u8
+#EXTINF:-1,Music-hit
+https://stream-05.ix7.dailymotion.com/dm/3/x2jbbrx/live-2.m3u8
+#EXTINF:-1,Generation
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-2.m3u8
+#EXTINF:-1,FRANCE Generation
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-0.m3u8
+#EXTINF:-1,FRANCE Generation
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-1.m3u8
+#EXTINF:-1,FRANCE Generation
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-3.m3u8
 
 #EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="galglz" tvg-name="galglz" tvg-logo="galglz.png", גלגל"צ
 http://glzwizzlv.bynetcdn.com/glglz_mp3
