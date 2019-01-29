@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 group-title="Israel" radio="false" tvg-id="id1" tvg-name="Channel_1" tvg-logo="channel1.png", כאן 11
-https://kanlive.media.kan.org.il/kan11/smil:kan11_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
 
 #EXTINF:-1 group-title="Israel" radio="false" tvg-id="id23" tvg-name="Channel_23" tvg-logo="channel1.png", כאן חינוכית 23
-https://kanlive.media.kan.org.il/kan23/smil:kan23_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 12 (קשת)
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
