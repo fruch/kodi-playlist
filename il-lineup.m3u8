@@ -6,9 +6,6 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
 #EXTINF:-1 group-title="Israel" radio="false" tvg-id="id23" tvg-name="Channel_23" tvg-logo="channel1.png", כאן חינוכית 23
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 12 (קשת)
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
-
 #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 13 (רשת)
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8|Referer=https://reshet.tv/live/ 
 
@@ -23,46 +20,6 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 #EXTINF:0, tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Qatar",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-id="fr24" tvg-name="Channel_99" tvg-logo="channel99.png", France 24
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8a
-
-#EXTINF:-1 tvg-id="i24" tvg-name="Channel_99" tvg-logo="channel99.png", TV5MONDE
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-
-#EXTINF:-1,FR: C STARS HD
-https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-3.m3u8
-
-#EXTINF:-1,France O
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/81.m3u8
-#EXTINF:-1,France 2
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/77.m3u8
-#EXTINF:-1,France 3
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/78.m3u8
-#EXTINF:-1,France 4
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/79.m3u8
-#EXTINF:-1,France 5
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/80.m3u8
-#EXTINF:-1,Arte
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/84.m3u8
-
-#EXTINF:-1,TF1
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/75.m3u8
-#EXTINF:-1,RTL9
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4267.m3u8
-
-#EXTINF:-1,Nickelodeon fr
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4006.m3u8
-#EXTINF:-1,Nickelodeon JR Fr
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4007.m3u8
-#EXTINF:-1,Disney Junior FR
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4001.m3u8
-#EXTINF:-1,Disney Channel fr
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/3999.m3u8
-#EXTINF:-1,Disney Cinema Fr
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4000.m3u8
-#EXTINF:-1,Disney XD Fr
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4002.m3u8
 
 #EXTINF:-1 group-title="Radio-IL" radio="true" tvg-id="galglz" tvg-name="galglz" tvg-logo="galglz.png", גלגל"צ
 http://glzwizzlv.bynetcdn.com/glglz_mp3
