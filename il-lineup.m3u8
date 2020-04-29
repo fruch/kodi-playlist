@@ -6,14 +6,14 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
 #EXTINF:-1 group-title="Israel" radio="false" tvg-id="id23" tvg-name="Channel_23" tvg-logo="channel1.png", כאן חינוכית 23
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="channel2.png", ערוץ 13 (רשת)
-https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8|Referer=https://reshet.tv/live/ 
+#EXTINF:-1 tvg-id="id13" tvg-name="Channel_13" tvg-logo="channel13.png", 13
+https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
 
-#EXTINF:-1 tvg-id="id10" tvg-name="Channel_10" tvg-logo="channel10.png", ערוץ 14 (עשר)
+#EXTINF:-1 tvg-id="id12" tvg-name="Channel_12" tvg-logo="channel12.png", 12
 http://nana10-hdl-il-sw.ctedgecdn.net/10tv_Desktop/index.m3u8?dvr
 
 #EXTINF:-1 tvg-id="id20" tvg-name="Channel_20" tvg-logo="channel20.png", ערוץ 20
-https://dvr.ch20-cdnwiz.com/hls/dvr.m3u8
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 
 #EXTINF:-1 tvg-id="id99" tvg-name="Channel_99" tvg-logo="channel99.png", ערוץ הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
