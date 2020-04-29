@@ -10,7 +10,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
 
 #EXTINF:-1 tvg-id="id12" tvg-name="Channel_12" tvg-logo="channel12.png", 12
-http://nana10-hdl-il-sw.ctedgecdn.net/10tv_Desktop/index.m3u8?dvr
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200.m3u8
 
 #EXTINF:-1 tvg-id="id20" tvg-name="Channel_20" tvg-logo="channel20.png", ערוץ 20
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
