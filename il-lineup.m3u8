@@ -7,7 +7,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id13" tvg-name="Channel_13" tvg-logo="channel13.png", 13
-https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
 #EXTINF:-1 tvg-id="id12" tvg-name="Channel_12" tvg-logo="channel12.png", 12
 https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200.m3u8
