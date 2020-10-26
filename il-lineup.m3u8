@@ -10,7 +10,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
 #EXTINF:-1 tvg-id="id12" tvg-name="Channel_12" tvg-logo="channel12.png", 12
-https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200.m3u8
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st%3D1603741130%7Eexp%3D1603742030%7Eacl%3D%2F*%7Ehmac%3D6575e4fc954fd0bc90379a9b67fa2804f1a4f7ee42dff68045eaca4c3500b1d6
 
 #EXTINF:-1 tvg-id="id20" tvg-name="Channel_20" tvg-logo="channel20.png", ערוץ 20
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
